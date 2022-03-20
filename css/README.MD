@@ -9,8 +9,9 @@ n}, {20/03/2022}
 Here are the features in summary:
 
 select your flavour
-selext your size
+select your size
 select your prefered crust
+proceed to payment
 
 ## Setup/Installation Requirements
 * STEP ONE: Clone this repository using https://github.com/MalitiG/MG-PIZZERIA.git
